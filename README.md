@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Trung Tinh
 
 <!--
 **trungtinh961/trungtinh961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=truclycs&count_private=true&show_icons=true&theme=tokyonight" />
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truclycs&theme=tokyonight" />
+</span>
