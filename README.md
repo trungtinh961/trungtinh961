@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=truclycs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=trungtinh961&count_private=true&show_icons=true&theme=tokyonight" />
 </span>
 <span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truclycs&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungtinh961&theme=tokyonight" />
 </span>
